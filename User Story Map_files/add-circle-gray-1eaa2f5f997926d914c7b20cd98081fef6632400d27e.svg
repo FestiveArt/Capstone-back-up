@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="100 100 299 299" version="1.1"
+     x="0px" y="0px">
+  <title>Add_circle</title>
+  <desc>Created with Sketch.</desc>
+  <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g fill="#000000">
+      <path fill="#9facbd"
+        d="M250,100 C167.29,100 100,167.29 100,250 C100,332.725 167.29,400 250,400 C332.71,400 400,332.725 400,250 C400,167.29 332.71,100 250,100 L250,100 Z M320,264 L264,264 L264,320 L236,320 L236,264 L180,264 L180,236 L236,236 L236,180 L264,180 L264,236 L320,236 L320,264 L320,264 Z"></path>
+    </g>
+  </g>
+</svg>
